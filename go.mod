@@ -13,5 +13,5 @@ require (
 	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/stretchr/testify v1.3.0 // indirect
-	gopkg.in/bluesuncorp/validator.v5 v5.9.1 // indirect
+	gopkg.in/bluesuncorp/validator.v5 v5.10.3 // indirect
 )
