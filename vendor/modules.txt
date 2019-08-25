@@ -9,7 +9,7 @@ github.com/heroku/x/hmetrics
 github.com/lib/pq
 github.com/lib/pq/oid
 github.com/lib/pq/scram
-# github.com/manucorporat/sse v0.0.0-20150604091100-c142f0f1baea
+# github.com/manucorporat/sse v0.0.0-20190825131122-ee05b128a739
 github.com/manucorporat/sse
 # github.com/mattn/go-colorable v0.1.2
 github.com/mattn/go-colorable
