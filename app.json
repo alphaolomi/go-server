@@ -5,6 +5,6 @@
     "go",
     "example"
   ],
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "website": "http://github.com/alphaolomi/go-server",
+  "repository": "http://github.com/alphaolomi/go-server"
 }
