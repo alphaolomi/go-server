@@ -2,7 +2,7 @@
 github.com/gin-gonic/gin
 github.com/gin-gonic/gin/binding
 github.com/gin-gonic/gin/render
-# github.com/heroku/x v0.0.1
+# github.com/heroku/x v0.0.2
 github.com/heroku/x/hmetrics/onload
 github.com/heroku/x/hmetrics
 # github.com/lib/pq v1.2.0
