@@ -3,7 +3,7 @@ module github.com/alphaolomi/go-server
 go 1.12
 
 require (
-	github.com/gin-gonic/gin v0.0.0-20150626140855-4cc2de6207f4
+	github.com/gin-gonic/gin v1.4.0
 	github.com/heroku/x v0.0.2
 	github.com/jinzhu/gorm v1.9.10 // indirect
 	github.com/lib/pq v1.2.0
