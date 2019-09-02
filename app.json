@@ -1,10 +1,7 @@
 {
   "name": "Go Server",
-  "description": "Go Example App",
-  "keywords": [
-    "go",
-    "example"
-  ],
-  "website": "http://github.com/alphaolomi/go-server",
+  "description": "Go sever",
+  "keywords": ["go"],
+  "website": "https://cool-server.herokuapp.com/",
   "repository": "http://github.com/alphaolomi/go-server"
 }
