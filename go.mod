@@ -11,5 +11,5 @@ require (
 	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/russross/blackfriday v2.0.1+incompatible
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
-	gopkg.in/bluesuncorp/validator.v9 v9.29.1 // indirect
+	gopkg.in/bluesuncorp/validator.v9 v9.30.0 // indirect
 )
