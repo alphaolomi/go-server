@@ -1,10 +1,6 @@
 <img align="right" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/81630ec2-d253-4eb2-b36c-eb54072cb8d6-golang.png" width="100px"><br>
 
-# Go Server
-
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+# Go Server [![Software License][ico-license]](LICENSE.md) [![Build Status][ico-travis]][link-travis] [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 A barebones Go app, which can easily be deployed to Heroku.
 
